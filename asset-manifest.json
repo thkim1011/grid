@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/thkim1011/grid/static/css/main.5f361e03.chunk.css",
+    "main.js": "/thkim1011/grid/static/js/main.a70b0516.chunk.js",
+    "main.js.map": "/thkim1011/grid/static/js/main.a70b0516.chunk.js.map",
+    "runtime-main.js": "/thkim1011/grid/static/js/runtime-main.7853ae0e.js",
+    "runtime-main.js.map": "/thkim1011/grid/static/js/runtime-main.7853ae0e.js.map",
+    "static/js/2.8ef755f4.chunk.js": "/thkim1011/grid/static/js/2.8ef755f4.chunk.js",
+    "static/js/2.8ef755f4.chunk.js.map": "/thkim1011/grid/static/js/2.8ef755f4.chunk.js.map",
+    "index.html": "/thkim1011/grid/index.html",
+    "precache-manifest.1add27ce5d709c9b7badeeebf3cb4cdc.js": "/thkim1011/grid/precache-manifest.1add27ce5d709c9b7badeeebf3cb4cdc.js",
+    "service-worker.js": "/thkim1011/grid/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/thkim1011/grid/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8ef755f4.chunk.js.LICENSE.txt": "/thkim1011/grid/static/js/2.8ef755f4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7853ae0e.js",
+    "static/js/2.8ef755f4.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a70b0516.chunk.js"
+  ]
+}
